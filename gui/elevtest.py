@@ -26,3 +26,4 @@ while True:  # Event Loop
         window['-oreg-'].update(values['-reg-'])
 
 window.close()
+
